@@ -1,1 +1,1 @@
-# Django_rest_api
+# Django_Rest_Api_Example
